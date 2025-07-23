@@ -43,7 +43,7 @@ height="60"/>
 <a href="https://www.excel.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/417/369/png-transparent-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-angle-thumbnail.png" alt="excel" width="60" height="60"/> 
 <img src="https://img.shields.io/badge/EDA-Data_Analysis-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Statistics-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://www.freepik.com/icon/predictive_14639561#fromView=keyword&page=1&position=12&uuid=d8b43cfc-eab8-46f7-8c2f-ba5858c46064">
 <img src="https://img.shields.io/badge/Deep%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-TextMining-yellowgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-0096D6?style=for-the-badge"/>
